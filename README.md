@@ -3,5 +3,7 @@
 ![](https://img.shields.io/badge/made%20with-jsonwebtokens-orange?logo=jsonwebtokens).
 
 # django-JWT-Auth
-Medium article about Django and JWT auth
+Medium article about Django and JWT auth:
+
+revolalex.medium.com/djangorest-api-jwt-authentification-5d610277aa6e
 
