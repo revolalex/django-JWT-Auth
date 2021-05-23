@@ -5,5 +5,5 @@
 # django-JWT-Auth
 Medium article about Django and JWT auth:
 
-revolalex.medium.com/djangorest-api-jwt-authentification-5d610277aa6e
+https://revolalex.medium.com/djangorest-api-jwt-authentification-5d610277aa6e
 
